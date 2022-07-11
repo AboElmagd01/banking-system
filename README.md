@@ -1,4 +1,4 @@
-# Banking Billing System
+# Banking System
 
 >  an application where the fingerprint of the user can be used as authentication. Implemented with clean code and applied design patterns and complete SRS document
 
